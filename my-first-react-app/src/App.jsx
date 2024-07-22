@@ -6,6 +6,9 @@ import ProfilePicture from './ProfilePicture.jsx'
 import MyComponent from './MyComponent.jsx'
 import ObjectForUpdate from './ObjectForUpdate.jsx'
 import ArrayForUpdate from './ArrayForUpdate.jsx'
+import UseEffect from './UseEffect.jsx'
+import WidthJokes from './WidthJokes.jsx'
+import ComponentA from './ComponentA.jsx'
 
 function App()
 {
@@ -21,6 +24,9 @@ function App()
       <MyComponent />
       <ObjectForUpdate />
       <ArrayForUpdate />
+      <UseEffect />
+      <WidthJokes />
+      <ComponentA />
     </div>
   );
 }
